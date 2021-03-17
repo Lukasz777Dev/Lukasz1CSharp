@@ -1,0 +1,11 @@
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\bin\Debug\SymulatorHamowania.exe.config
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\bin\Debug\SymulatorHamowania.exe
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\bin\Debug\SymulatorHamowania.pdb
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\obj\Debug\SymulatorHamowania.csprojAssemblyReference.cache
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\obj\Debug\SymulatorHamowania.Form1.resources
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\obj\Debug\SymulatorHamowania.Form2TEST.resources
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\obj\Debug\SymulatorHamowania.Properties.Resources.resources
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\obj\Debug\SymulatorHamowania.csproj.GenerateResource.cache
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\obj\Debug\SymulatorHamowania.csproj.CoreCompileInputs.cache
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\obj\Debug\SymulatorHamowania.exe
+I:\InformatykPUZ\V_semestr(3 rok)\Techn_SymulacjiKomputerowych_lab_Jezierski\SymulatorHamowania+Sprawozdanie\SymulatorHamowania\obj\Debug\SymulatorHamowania.pdb
